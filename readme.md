@@ -43,13 +43,13 @@ node index.js
 
 🚀 API Endpoints
 
-Method	Endpoint	Description
+Method	Endpoint	  Description
 GET	    /users	    Get all users
 GET	    /users/:id	Get a user by ID
-POST	/user	    Add a new user
-PUT	    /user/:id	Update a user (full)
-PATCH	/user/:id	Update a user (partial)
-DELETE	/user/:id	Delete a user by ID
+POST	  /user	      Add a new user
+PUT	    /user/:id	  Update a user (full)
+PATCH	  /user/:id	  Update a user (partial)
+DELETE	/user/:id	  Delete a user by ID
 
 
 📂 Sample User Object
