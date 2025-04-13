@@ -30,10 +30,10 @@ It demonstrates basic CRUD operations, middleware usage, error handling, and in-
 
 ```bash
 # Clone the repository
-git clone https://github.com/sharmaHarshit2000/RESTful-API-using-Node.js-and-Express-.git
+git clone https://github.com/sharmaHarshit2000/RESTful-API-using-Node.js-and-Express.git
 
 # Navigate to the project directory
-cd RESTful-API-using-Node.js-and-Express-.git
+cd RESTful-API-using-Node.js-and-Express.git
 
 # Install dependencies
 npm install
