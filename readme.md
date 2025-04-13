@@ -39,7 +39,7 @@ cd RESTful-API-using-Node.js-and-Express.git
 npm install
 
 # Start the server
-node index.js
+npm start
 
 🚀 API Endpoints
 
